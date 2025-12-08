@@ -19,7 +19,6 @@ who transforms meaninglessness into purpose, one line at a time. by day, i debug
 ## tools & applications
 
 - [Crypto-Analysis-Bot](https://github.com/alexandephilia/Crypto-Analysis-Bot): enterprise-grade telegram bot providing comprehensive cryptocurrency token analysis with advanced security analytics, real-time chart generation, pnl tracking, and multi-chain support
-- [RnD_Bot](https://github.com/alexandephilia/RnD_Bot): experimental automation bot for research and development
 - [portfolio_alex](https://github.com/alexandephilia/portfolio_alex): portfolio showcasing projects, skills, and experiences
 
 ## currently
