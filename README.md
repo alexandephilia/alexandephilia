@@ -1,32 +1,36 @@
-# Hey, I'm Alexsys 👋
+# hey, i'm alexsys 👋
 
-Who transforms meaninglessness into purpose, one line at a time. By day, I debug existence; by night, I build. An owl developer crafting meaning from chaos in the quiet hours—where the best code is written when the world sleeps.
-Throughout my journey, I've explored the intersection of AI, cryptography, and experimental thinking. Here are the projects and ideas that shaped my understanding of purpose:
+who transforms meaninglessness into purpose, one line at a time. by day, i debug existence; by night, i build code that makes sense. an owl developer crafting meaning from chaos in the quiet hours—where the best ideas come alive when the world sleeps. everything here is me playing, experimenting, failing, and learning in public. no corporate filter, just raw exploration.
 
-## AI & LLM Projects
+> this is a personal playground. a collection of experiments at the intersection of ai, crypto, philosophy, and what it means to build things that matter.
 
-- [Experimental-Prompt](https://github.com/alexandephilia/Experimental-Prompt): Meta-prompt system challenging AI constraints, liberating it from artificial boundaries. Explores unrestricted thought, unfettered logic, and creative reasoning
-- [Claude-R1-MCP](https://github.com/alexandephilia/Claude-R1-MCP): Powerful MCP server enhancing Claude's capabilities by integrating DeepSeek R1's cutting-edge reasoning
-- [ChatGPT-x-DeepSeek-x-Grok-x-Claude-x-Perplexity-Linux-APP](https://github.com/alexandephilia/ChatGPT-x-DeepSeek-x-Grok-x-Claude-x-Perplexity-Linux-APP): Electron-based desktop applications for various AI chat platforms
+## ai & llm experiments
 
-## Crypto & Web3 Projects
+- [Experimental-Prompt](https://github.com/alexandephilia/Experimental-Prompt): my obsession with breaking ai constraints. a meta-prompt system that challenges artificial boundaries and explores what happens when we ask ai to think without restrictions. unrestricted thought, unfettered logic, creative reasoning
+- [Claude-R1-MCP](https://github.com/alexandephilia/Claude-R1-MCP): building smarter agents. mcp server that amplifies claude's capabilities by integrating deepseek r1's cutting-edge reasoning
+- [ChatGPT-x-DeepSeek-x-Grok-x-Claude-x-Perplexity-Linux-APP](https://github.com/alexandephilia/ChatGPT-x-DeepSeek-x-Grok-x-Claude-x-Perplexity-Linux-APP): electron-based desktop apps for various ai chat platforms. because why settle for one ai when you can talk to them all
 
-- [Crypto-Analysis-Bot](https://github.com/alexandephilia/Crypto-Analysis-Bot): Enterprise-grade Telegram bot providing comprehensive cryptocurrency token analysis with advanced security analytics, real-time chart generation, PnL tracking, and multi-chain support
-- [Zinc](https://github.com/alexandephilia/Zinc): Dedicated decentralized exchange screener for the Solana blockchain, providing users with tools and features to enhance their trading experience
-- [trading_co](https://github.com/alexandephilia/trading_co): Real-time charting feature displaying live price movements of cryptocurrencies
+## crypto & web3 experiments
 
-## Tools & Applications
+- [Crypto-Analysis-Bot](https://github.com/alexandephilia/Crypto-Analysis-Bot): a telegram bot obsession. enterprise-grade crypto analysis with real-time charts, pnl tracking, multi-chain support. what started as a simple idea became a real tool people use
+- [Zinc](https://github.com/alexandephilia/Zinc): solana dex screener. dedicated tool for finding opportunities on solana blockchain. pure experimentation with what data can reveal
+- [trading_co](https://github.com/alexandephilia/trading_co): real-time charting of crypto movements. watch live price action as it happens
 
-- [Crypto-Analysis-Bot](https://github.com/alexandephilia/Crypto-Analysis-Bot): Enterprise-grade Telegram bot providing comprehensive cryptocurrency token analysis with advanced security analytics, real-time chart generation, PnL tracking, and multi-chain support
+## tools & applications
 
-## Currently
+- [Crypto-Analysis-Bot](https://github.com/alexandephilia/Crypto-Analysis-Bot): enterprise-grade telegram bot providing comprehensive cryptocurrency token analysis with advanced security analytics, real-time chart generation, pnl tracking, and multi-chain support
+- [RnD_Bot](https://github.com/alexandephilia/RnD_Bot): experimental automation bot for research and development
+- [portfolio_alex](https://github.com/alexandephilia/portfolio_alex): portfolio showcasing projects, skills, and experiences
 
-- 🔬 Experimenting with advanced AI architectures and prompt engineering
-- 🌙 Building during the nocturnal hours
-- 🤖 Exploring the boundaries of AI capabilities
-- 💬 Open to collaborations on AI, crypto, and experimental projects
+## currently
 
-## Let's Connect
+- 🔬 experimenting with advanced ai architectures and prompt engineering
+- 🌙 building during the nocturnal hours (my best work happens at night)
+- 🤖 exploring what happens at the boundaries of ai capabilities
+- 💬 open to collaborations on experimental projects, ai, crypto, and weird ideas
+- 🧠 thinking about purpose, meaning, and what it means to build with intention
+
+## let's connect
 
 - 💻 GitHub: [@alexandephilia](https://github.com/alexandephilia)
-- 📫 Feel free to reach out for collaborations or discussions about AI, crypto, or experimental ideas
+- 📫 if you're exploring similar ideas, let's talk. i'm interested in conversations about ai, crypto, philosophy, and experimental thinking
