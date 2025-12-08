@@ -1,6 +1,6 @@
 # hey, i'm alexsys 👋
 
-who transforms meaninglessness into purpose, one line at a time. by day, i debug existence; by night, i build code that makes sense. an owl developer crafting meaning from chaos in the quiet hours—where the best ideas come alive when the world sleeps. everything here is me playing, experimenting, failing, and learning in public. no corporate filter, just raw exploration.
+who transforms meaninglessness into purpose, one line at a time. by day, i debug existence; by night, i build code that makes sense. an owl developer crafting meaning from chaos in the quiet hours where the best ideas come alive when the world sleeps. everything here is me playing, experimenting, failing, and learning in public. no corporate filter, just raw exploration.
 
 > this is a personal playground. a collection of experiments at the intersection of ai, crypto, philosophy, and what it means to build things that matter.
 
