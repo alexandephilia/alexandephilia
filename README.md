@@ -19,7 +19,6 @@ Here are some things I've been working on:
 ## Tools & Applications
 
 - [Crypto-Analysis-Bot](https://github.com/alexandephilia/Crypto-Analysis-Bot): Enterprise-grade Telegram bot providing comprehensive cryptocurrency token analysis with advanced security analytics, real-time chart generation, PnL tracking, and multi-chain support
-- [portfolio_alex](https://github.com/alexandephilia/portfolio_alex): Portfolio showcasing projects, skills, and experiences
 
 ## Currently
 
