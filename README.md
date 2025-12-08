@@ -2,6 +2,7 @@
 
 I'm a coder who transforms meaninglessness into purpose, one line at a time. By day, I debug existence; by night, I build. An owl developer crafting meaning from chaos in the quiet hours—where the best code is written when the world sleeps.
 Throughout my journey, I've explored the intersection of AI, cryptography, and experimental thinking. Here are the projects and ideas that shaped my understanding of purpose:
+
 ## AI & LLM Projects
 
 - [Experimental-Prompt](https://github.com/alexandephilia/Experimental-Prompt): Meta-prompt system challenging AI constraints, liberating it from artificial boundaries. Explores unrestricted thought, unfettered logic, and creative reasoning
