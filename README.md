@@ -20,7 +20,7 @@ who transforms meaninglessness into purpose, one line at a time. by day, i debug
 
 - [Crypto-Analysis-Bot](https://github.com/alexandephilia/Crypto-Analysis-Bot): enterprise-grade telegram bot providing comprehensive cryptocurrency token analysis with advanced security analytics, real-time chart generation, pnl tracking, and multi-chain support
 - [portfolio_alex](https://github.com/alexandephilia/portfolio_alex): portfolio showcasing projects, skills, and experiences
-- [portfolio_alex](https://github.com/alexandephilia/Grabby_Tool): grabby is a precision-engineered AI knowledge system that combines element inspection, semantic search, and automated workflows to enable autonomous code generation and structural refactoring.
+- [grabby](https://github.com/alexandephilia/Grabby_Tool): grabby is a precision-engineered AI knowledge system that combines element inspection, semantic search, and automated workflows to enable autonomous code generation and structural refactoring.
 - 
 ## currently
 
