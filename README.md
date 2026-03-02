@@ -24,13 +24,13 @@ who transforms meaninglessness into purpose, one line at a time. by day, i debug
   
 ## currently
 
-✴︎ experimenting with advanced ai architectures and prompt engineering
-✴︎ building during the nocturnal hours (my best work happens at night)
-✴︎ exploring what happens at the boundaries of ai capabilities
-✴︎ open to collaborations on experimental projects, ai, crypto, and weird ideas
-✴︎ thinking about purpose, meaning, and what it means to build with intention
+✴︎ experimenting with advanced ai architectures and prompt engineering <br>
+✴︎ building during the nocturnal hours (my best work happens at night) <br>
+✴︎ exploring what happens at the boundaries of ai capabilities <br>
+✴︎ open to collaborations on experimental projects, ai, crypto, and weird ideas <br>
+✴︎ thinking about purpose, meaning, and what it means to build with intention <br>
 
 ## let's connect
 
-◉ GitHub: [@alexandephilia](https://github.com/alexandephilia)
+◉ GitHub: [@alexandephilia](https://github.com/alexandephilia) <br>
 ◉ 📫 if you're exploring similar ideas, let's talk. i'm interested in conversations about ai, crypto, philosophy, and experimental thinking
