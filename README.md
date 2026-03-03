@@ -18,7 +18,7 @@ who transforms meaninglessness into purpose, one line at a time. by day, i debug
 
 ## tools & applications
 
-- [Crypto-Analysis-Bot](https://github.com/alexandephilia/Crypto-Analysis-Bot): enterprise-grade telegram bot providing comprehensive cryptocurrency token analysis with advanced security analytics, real-time chart generation, pnl tracking, and multi-chain support
+- [Crypto-Analysis-Bot](https://github.com/alexandephilia/Zeta_Platform): enterprise-grade telegram bot providing comprehensive cryptocurrency token analysis with advanced security analytics, real-time chart generation, pnl tracking, and multi-chain support
 - [zeta_ai](https://github.com/alexandephilia/Chat-Platform-With-Browse-Tools): a modern, multi-model AI chat assistant with real-time web search and TTS capabilities. Built with React 19 and TypeScript for a seamless, intelligent experience.
 - [grabby](https://github.com/alexandephilia/Grabby_Tool): grabby is a precision-engineered AI knowledge system that combines element inspection, semantic search, and automated workflows to enable autonomous code generation and structural refactoring.
   
