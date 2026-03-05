@@ -4,13 +4,14 @@ who transforms meaninglessness into purpose, one line at a time. by day, i debug
 
 > this is a personal playground. a collection of experiments at the intersection of ai, crypto, philosophy, and what it means to build things that matter.
 
-## ai & llm experiments
+## ai & llm projects
 
+- [Clov AI](https://github.com/alexandephilia/clov-ai): CLI proxy that reduces LLM token consumption by 65-90% when dealing with most of dev commands. It's built in Rust, zero dependencies
 - [Experimental-Prompt](https://github.com/alexandephilia/Experimental-Prompt): my obsession with breaking ai constraints. a meta-prompt system that challenges artificial boundaries and explores what happens when we ask ai to think without restrictions. unrestricted thought, unfettered logic, creative reasoning
 - [Claude-R1-MCP](https://github.com/alexandephilia/Claude-R1-MCP): building smarter agents. mcp server that amplifies claude's capabilities by integrating deepseek r1's cutting-edge reasoning
 - [ChatGPT-x-DeepSeek-x-Grok-x-Claude-x-Perplexity-Linux-APP](https://github.com/alexandephilia/ChatGPT-x-DeepSeek-x-Grok-x-Claude-x-Perplexity-Linux-APP): electron-based desktop apps for various ai chat platforms. because why settle for one ai when you can talk to them all
 
-## crypto & web3 experiments
+## crypto & web3 projects
 
 - [Crypto-Analysis-Bot](https://github.com/alexandephilia/Crypto-Analysis-Bot): a telegram bot obsession. enterprise-grade crypto analysis with real-time charts, pnl tracking, multi-chain support. what started as a simple idea became a real tool people use
 - [Zinc](https://github.com/alexandephilia/Zinc): solana dex screener. dedicated tool for finding opportunities on solana blockchain. pure experimentation with what data can reveal
