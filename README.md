@@ -6,7 +6,7 @@ who transforms meaninglessness into purpose, one line at a time. by day, i debug
 
 ## ai & llm projects
 
-- [Clov AI](https://github.com/alexandephilia/clov-ai): CLI proxy that reduces LLM token consumption by 65-90% when dealing with most of dev commands. It's built in Rust, zero dependencies
+- [Clov AI](https://github.com/alexandephilia/clov-ai): CLI proxy that reduces LLM token consumption when dealing with most of dev commands and it has MCP wrapper support.
 - [Experimental-Prompt](https://github.com/alexandephilia/Experimental-Prompt): my obsession with breaking ai constraints. a meta-prompt system that challenges artificial boundaries and explores what happens when we ask ai to think without restrictions. unrestricted thought, unfettered logic, creative reasoning
 - [Claude-R1-MCP](https://github.com/alexandephilia/Claude-R1-MCP): building smarter agents. mcp server that amplifies claude's capabilities by integrating deepseek r1's cutting-edge reasoning
 - [ChatGPT-x-DeepSeek-x-Grok-x-Claude-x-Perplexity-Linux-APP](https://github.com/alexandephilia/ChatGPT-x-DeepSeek-x-Grok-x-Claude-x-Perplexity-Linux-APP): electron-based desktop apps for various ai chat platforms. because why settle for one ai when you can talk to them all
