@@ -24,8 +24,7 @@
   <img src="https://img.shields.io/badge/MongoDB-234ea94b?style=plastic&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket-000000?style=plastic&logo=socket&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bun-000000?style=plastic&logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeRabbit-red?style=plastic&logo=CodeRabbit&logoColor=white" />
   </br>
   <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=plastic&logo=perplexity&logoColor=fff" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=plastic&logo=claude&logoColor=white" />
@@ -33,6 +32,7 @@
   <img src="https://img.shields.io/badge/Zed-white?style=plastic&logo=zedindustries&logoColor=084CCF" />
   <img src="https://img.shields.io/badge/Ollama-fff?style=plastic&logo=ollama&logoColor=black" />
   <img src="https://img.shields.io/badge/Ghostty-0000ff?style=plastic&logo=ghostty&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kiro-purple?style=plastic&logo=ghostery&logoColor=white" />
   <img src="https://img.shields.io/badge/Warp-000000?style=plastic&logo=warp&logoColor=white" />
 </p>
 
