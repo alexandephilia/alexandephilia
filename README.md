@@ -1,9 +1,10 @@
 <img src="https://img.shields.io/badge/alexsys-building%20meaning%20from%20chaos-1A1B26?style=for-the-badge&logo=github&logoColor=fff&labelColor=1A1B26" width="100%" />
 <p align="center">
 <!-- Requires repo setup, but builds social proof immediately -->
-<a href="https://github.com/alexandephilia/clov-ai/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=alexandephilia/clov-ai" />
-</a>
+<a href="https://github.com/alexandephilia/kiro-claude-proxy/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=alexandephilia/kiro-claude-proxy" />
+</a> </br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /> Ah here we go again...
 </p>
 
 <p align="center">
@@ -38,47 +39,47 @@
 
 ## Projects Showcase
 
-<table width="100%" align="center">modelcontextprotocol
+<table width="100%" align="center">
   <tr>
     <td width="33%" valign="top">
-      <h3> <a href="https://github.com/alexandephilia/clov-ai">Clov AI</a></h3>
+      <h3> <a href="https://github.com/alexandephilia/clov-ai"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Square%20Button.png" alt="Black Square Button" width="25" height="25" /> Clov AI</a></h3>
       <p>CLI proxy that reduces LLM token consumption when dealing with most of dev commands and it has MCP wrapper support.</p>
     </td>
     <td width="33%" valign="top">
-      <h3> <a href="https://github.com/alexandephilia/Experimental-Prompt">Experimental-Prompt</a></h3>
-      <p>my obsession with breaking ai constraints. a meta-prompt system that challenges boundaries and explores unrestricted thought.</p>
+      <h3> <a href="https://github.com/alexandephilia/Experimental-Prompt"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Pirate%20Flag.png" alt="Pirate Flag" width="25" height="25" /> Experimental-Prompt</a></h3>
+      <p>My obsession with breaking ai constraints. a meta-prompt system that challenges boundaries and explores unrestricted thought.</p>
     </td>
     <td width="33%" valign="top">
-      <h3> <a href="https://github.com/alexandephilia/Claude-R1-MCP">Claude-R1-MCP</a></h3>
-      <p>building smarter agents. mcp server that amplifies claude's capabilities by integrating deepseek r1's cutting-edge reasoning.</p>
+      <h3> <a href="https://github.com/alexandephilia/Claude-R1-MCP"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Infinity.png" alt="Infinity" width="25" height="25" /> Claude-R1-MCP</a></h3>
+      <p>Building smarter agents. mcp server that amplifies claude's capabilities by integrating deepseek r1's cutting-edge reasoning.</p>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <h3> <a href="https://github.com/alexandephilia/ChatGPT-x-DeepSeek-x-Grok-x-Claude-x-Perplexity-Linux-APP">AI Multi-Chat App</a></h3>
-      <p>electron-based desktop apps for various ai chat platforms. because why settle for one ai when you can talk to them all.</p>
+      <h3> <a href="https://github.com/alexandephilia/ChatGPT-x-DeepSeek-x-Grok-x-Claude-x-Perplexity-Linux-APP"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Square%20Button.png" alt="Black Square Button" width="25" height="25" /> AI Multi-Chat App</a></h3>
+      <p>Electron-based desktop apps for various ai chat platforms. because why settle for one ai when you can talk to them all.</p>
     </td>
     <td width="33%" valign="top">
-      <h3> <a href="https://github.com/alexandephilia/Crypto-Analysis-Bot">Crypto-Analysis-Bot</a></h3>
-      <p>a telegram bot obsession. enterprise-grade crypto analysis with real-time charts, pnl tracking, multi-chain support.</p>
+      <h3> <a href="https://github.com/alexandephilia/Crypto-Analysis-Bot"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Hamsa.png" alt="Hamsa" width="25" height="25" /> Crypto-Analysis-Bot</a></h3>
+      <p>A telegram bot obsession. enterprise-grade crypto analysis with real-time charts, pnl tracking, multi-chain support.</p>
     </td>
     <td width="33%" valign="top">
-      <h3> <a href="https://github.com/alexandephilia/Zinc">Zinc</a></h3>
-      <p>solana dex screener. dedicated tool for finding opportunities on solana blockchain. pure experimentation with what data reveals.</p>
+      <h3> <a href="https://github.com/alexandephilia/Zinc"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Part%20Alternation%20Mark.png" alt="Part Alternation Mark" width="25" height="25" /> Zinc</a></h3>
+      <p>Solana dex screener. dedicated tool for finding opportunities on solana blockchain. pure experimentation with what data reveals.</p>
     </td>
   </tr>
   <tr>
+    <td width="33%" valign="top">
+      <h3> <a href="https://github.com/alexandephilia/Chat-Platform-With-Browse-Tools"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Square%20Button.png" alt="Black Square Button" width="25" height="25" /> Zeta Platform</a></h3>
+      <p>Modern multi-model AI chat assistant with real-time web search and TTS capabilities. Built with React 19 and TypeScript.</p>
+    </td>
      <td width="33%" valign="top">
-      <h3> <a href="https://github.com/alexandephilia/trading_co">Trading_co</a></h3>
-      <p>real-time charting of crypto movements. watch live price action as it happens.</p>
+      <h3> <a href="https://github.com/alexandephilia/trading_co"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Part%20Alternation%20Mark.png" alt="Part Alternation Mark" width="25" height="25" /> Trading_co</a></h3>
+      <p>Real-time charting of crypto movements. watch live price action as it happens.</p>
     </td>
     <td width="33%" valign="top">
-      <h3> <a href="https://github.com/alexandephilia/Chat-Platform-With-Browse-Tools">Zeta Platform</a></h3>
-      <p>modern multi-model AI chat assistant with real-time web search and TTS capabilities. Built with React 19 and TypeScript.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3> <a href="https://github.com/alexandephilia/Grabby_Tool">Grabby</a></h3>
-      <p>precision-engineered AI knowledge system combining element inspection, semantic search, and autonomous workflows.</p>
+      <h3> <a href="https://github.com/alexandephilia/Grabby_Tool"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Radio%20Button.png" alt="Radio Button" width="25" height="25" /> Grabby</a></h3>
+      <p>Precision-engineered AI knowledge system combining element inspection, semantic search, and autonomous workflows.</p>
     </td>
   </tr>
 </table>
