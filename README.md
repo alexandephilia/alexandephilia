@@ -15,7 +15,27 @@
   <b>This is a personal playground. A collection of experiments at the intersection of AI, crypto, philosophy, and what it means to build things that matter.</b>
 </p>
 
-## Tech Stack
+<h2 align="center">Hmm what's on my mind... <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" /> </h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Experimenting with advanced AI architectures and prompt engineering</li>
+        <li>Building during the nocturnal hours (my best work happens at night)</li>
+        <li>Exploring what happens at the boundaries of AI capabilities</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Open to collaborations on experimental projects, AI, crypto, and weird ideas</li>
+        <li>Thinking about purpose, meaning, and what it means to build with intention</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">Tech Stacks <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="25" height="25" /> </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-black?style=plastic&logo=nextdotjs&logoColor=white" />
@@ -37,7 +57,7 @@
   <img src="https://img.shields.io/badge/Warp-000000?style=plastic&logo=warp&logoColor=white" />
 </p>
 
-## Projects Showcase
+<h2 align="center">Personal Experiments <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pager.png" alt="Pager" width="25" height="25" /></h2>
 
 <table width="100%" align="center">
   <tr>
@@ -84,7 +104,7 @@
   </tr>
 </table>
 
-## GitHub Stats & Activity
+<h2 align="center">GitHub Stats & Activity <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Anatomical%20Heart.png" alt="Anatomical Heart" width="25" height="25" />
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandephilia&theme=tokyonight" width="90%" />
@@ -95,25 +115,4 @@
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alexandephilia&theme=tokyonight&utcOffset=7" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandephilia&theme=tokyonight-duo&hide_border=true" width="49%" />
-  
 </p>
-
-## Currently
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <ul>
-        <li>Experimenting with advanced AI architectures and prompt engineering</li>
-        <li>Building during the nocturnal hours (my best work happens at night)</li>
-        <li>Exploring what happens at the boundaries of AI capabilities</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <ul>
-        <li>Open to collaborations on experimental projects, AI, crypto, and weird ideas</li>
-        <li>Thinking about purpose, meaning, and what it means to build with intention</li>
-      </ul>
-    </td>
-  </tr>
-</table>
