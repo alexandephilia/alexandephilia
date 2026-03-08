@@ -32,13 +32,13 @@
   <img src="https://img.shields.io/badge/Zed-white?style=plastic&logo=zedindustries&logoColor=084CCF" />
   <img src="https://img.shields.io/badge/Ollama-fff?style=plastic&logo=ollama&logoColor=black" />
   <img src="https://img.shields.io/badge/Ghostty-0000ff?style=plastic&logo=ghostty&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kiro-purple?style=plastic&logo=ghostery&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=plastic&logo=modelcontextprotocol&logoColor=white" />
   <img src="https://img.shields.io/badge/Warp-000000?style=plastic&logo=warp&logoColor=white" />
 </p>
 
 ## Projects Showcase
 
-<table width="100%" align="center">
+<table width="100%" align="center">modelcontextprotocol
   <tr>
     <td width="33%" valign="top">
       <h3> <a href="https://github.com/alexandephilia/clov-ai">Clov AI</a></h3>
