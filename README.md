@@ -110,9 +110,3 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandephilia&theme=tokyonight" width="90%" />
 
 </p>
-
-<p align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alexandephilia&theme=tokyonight&utcOffset=7" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandephilia&theme=tokyonight-duo&hide_border=true" width="49%" />
-</p>
