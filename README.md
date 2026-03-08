@@ -24,8 +24,6 @@
   <img src="https://img.shields.io/badge/MongoDB-234ea94b?style=plastic&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-2B2E3A?style=plastic&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=plastic&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket-000000?style=plastic&logo=socket&logoColor=white" />
   <img src="https://img.shields.io/badge/Bun-000000?style=plastic&logo=bun&logoColor=white" />
   </br>
