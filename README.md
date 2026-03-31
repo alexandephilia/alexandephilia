@@ -57,45 +57,6 @@
   <img src="https://img.shields.io/badge/Warp-000000?style=plastic&logo=warp&logoColor=white" />
 </p>
 
-<h2 align="center">Personal Experiments <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pager.png" alt="Pager" width="25" height="25" /></h2>
-
-<table width="100%" align="center">
-  <tr>
-    <td width="33%" valign="top">
-      <h3> <a href="https://github.com/alexandephilia/clov-ai"> Clov AI</a></h3>
-      <p>CLI proxy that reduces LLM token consumption when dealing with most of dev commands and it has MCP wrapper support.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3> <a href="https://github.com/alexandephilia/Experimental-Prompt"> Experimental-Prompt</a></h3>
-      <p>My obsession with breaking ai constraints. a meta-prompt system that challenges boundaries and explores unrestricted thought.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3> <a href="https://github.com/alexandephilia/Claude-R1-MCP">Claude-R1-MCP</a></h3>
-      <p>Building smarter agents. mcp server that amplifies claude's capabilities by integrating deepseek r1's cutting-edge reasoning.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h3> <a href="https://github.com/alexandephilia/ChatGPT-x-DeepSeek-x-Grok-x-Claude-x-Perplexity-Linux-APP">AI Multi-Chat App</a></h3>
-      <p>Electron-based desktop apps for various ai chat platforms. because why settle for one ai when you can talk to them all.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3> <a href="https://github.com/alexandephilia/Crypto-Analysis-Bot">Crypto-Analysis-Bot</a></h3>
-      <p>A telegram bot obsession. enterprise-grade crypto analysis with real-time charts, pnl tracking, multi-chain support.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3> <a href="https://github.com/alexandephilia/Zinc">Zinc</a></h3>
-      <p>Solana dex screener. dedicated tool for finding opportunities on solana blockchain. pure experimentation with what data reveals.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h3> <a href="https://github.com/alexandephilia/Chat-Platform-With-Browse-Tools">Zeta Platform</a></h3>
-      <p>Modern multi-model AI chat assistant with real-time web search and TTS capabilities. Built with React 19 and TypeScript.</p>
-    </td>
-     <td width="33%" valign="top">
-      <h3> <a href="https://github.com/alexandephilia/trading_co">Trading_co</a></h3>
-      <p>Real-time charting of crypto movements. watch live price action as it happens.</p>
     </td>
     <td width="33%" valign="top">
       <h3> <a href="https://github.com/alexandephilia/Grabby_Tool">Grabby</a></h3>
