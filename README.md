@@ -2,10 +2,10 @@
 <p align="center">
 <!-- Requires repo setup, but builds social proof immediately -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /> Ah here we go again...
-</p>
 
-<p align="center">
+
+<p align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /> Ah here we go again...
+</p>
   <i>By day, I debug existence; by night, I build code that makes sense. An owl developer crafting meaning from chaos in the quiet hours where the best ideas come alive when the world sleeps. Everything here is me playing, experimenting, failing, and learning in public. No corporate filter, just raw exploration.</i>
 </p>
 
