@@ -103,10 +103,3 @@
     </td>
   </tr>
 </table>
-
-<h2 align="center">GitHub Stats & Activity <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Anatomical%20Heart.png" alt="Anatomical Heart" width="25" height="25" /> </h2> </br>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandephilia&theme=tokyonight" width="90%" />
-
-</p>
