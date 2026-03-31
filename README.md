@@ -1,9 +1,7 @@
 <img src="https://img.shields.io/badge/alexsys-building%20meaning%20from%20chaos-1A1B26?style=for-the-badge&logo=github&logoColor=fff&labelColor=1A1B26" width="100%" />
 <p align="center">
 <!-- Requires repo setup, but builds social proof immediately -->
-<a href="https://github.com/alexandephilia/kiro-claude-proxy/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=alexandephilia/kiro-claude-proxy" />
-</a> </br>
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /> Ah here we go again...
 </p>
 
