@@ -57,10 +57,4 @@
   <img src="https://img.shields.io/badge/Warp-000000?style=plastic&logo=warp&logoColor=white" />
 </p>
 
-    </td>
-    <td width="33%" valign="top">
-      <h3> <a href="https://github.com/alexandephilia/Grabby_Tool">Grabby</a></h3>
-      <p>Precision-engineered AI knowledge system combining element inspection, semantic search, and autonomous workflows.</p>
-    </td>
-  </tr>
-</table>
+   
