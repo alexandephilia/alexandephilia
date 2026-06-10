@@ -2,7 +2,11 @@
 <p align="center">
 <!-- Requires repo setup, but builds social proof immediately -->
 
-[My website](https://alexandeism.vercel.app/)
+<p align="center">
+  <a href="https://alexandeism.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/My%20Website-Visit-01696F?style=for-the-badge&logo=vercel&logoColor=white" alt="My website badge" />
+  </a>
+</p>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /> Ah here we go again...
 </p>
