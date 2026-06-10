@@ -1,8 +1,8 @@
-<img src="https://img.shields.io/badge/alexsys-building%20meaning%20from%20chaos-1A1B26?style=for-the-badge&logo=github&logoColor=fff&labelColor=1A1B26" width="100%" />
+<img src="https://img.shields.io/badge/alexsys-building%20stuff%20from%20experiment-1A1B26?style=for-the-badge&logo=github&logoColor=fff&labelColor=1A1B26" width="100%" />
 <p align="center">
 <!-- Requires repo setup, but builds social proof immediately -->
 
-
+[My website](https://alexandeism.vercel.app/)
 
 <p align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /> Ah here we go again...
 </p>
